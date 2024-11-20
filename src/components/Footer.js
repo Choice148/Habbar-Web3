@@ -7,7 +7,7 @@ function Footer() {
         <div className="container-fluid">
           <div className="wrapper">
             <p className="copy-right heading-S">
-              Copyright © 2022 Blockchain Rectification . All rights reserved.
+              Copyright © 2022 - 2024 Blockchain Rectification . All rights reserved.
             </p>
             <div className="linkk-otr">
               <p className="linkk-inr">
