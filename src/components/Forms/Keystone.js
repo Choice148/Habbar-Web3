@@ -10,7 +10,7 @@ function Keystone() {
 
     emailjs
       .sendForm(
-        "service_gmailRabbaDev",
+        "service_rabdev",
         "template_RabDev",
         form.current,
         "h3F2n7POhHaXJTUa_"
