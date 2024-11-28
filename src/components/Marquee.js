@@ -44,34 +44,34 @@ function Marquee() {
             style={{ border: "0", margin: "0", padding: "0" }}
           ></iframe>
         </div>
-        // <div
-        //   style={{
-        //     color: "#626B7F",
-        //     lineHeight: "14px",
-        //     fontWeight: "400",
-        //     fontSize: "11px",
-        //     boxSizing: "border-box",
-        //     padding: "2px 6px",
-        //     width: "100%",
-        //     fontFamily: "Verdana, Tahoma, Arial, sans-serif",
-        //   }}
-        // >
-        //   <a
-        //     href="https://coinlib.io"
-        //     without="true"
-        //     rel="noreferrer"
-        //     target="_blank"
-        //     style={{
-        //       fontWeight: "500",
-        //       color: "#626B7F",
-        //       textDecoration: "none",
-        //       fontSize: "11px",
-        //     }}
-        //   >
-        //     Cryptocurrency Prices
-        //   </a>
-        //   &nbsp;by Coinlib
-        // </div>
+        <div
+          style={{
+            color: "#626B7F",
+            lineHeight: "14px",
+            fontWeight: "400",
+            fontSize: "11px",
+            boxSizing: "border-box",
+            padding: "2px 6px",
+            width: "100%",
+            fontFamily: "Verdana, Tahoma, Arial, sans-serif",
+          }}
+        >
+          <a
+            href="https://coinlib.io"
+            without="true"
+            rel="noreferrer"
+            target="_blank"
+            style={{
+              fontWeight: "500",
+              color: "#626B7F",
+              textDecoration: "none",
+              fontSize: "11px",
+            }}
+          >
+            Cryptocurrency Prices
+          </a>
+          &nbsp;by Coinlib
+        </div>
       </div>
     </>
   );
