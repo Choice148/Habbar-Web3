@@ -36,7 +36,6 @@ function Home() {
   };
   return (
     <>
-      // <Marquee /> no need
       <Header />
       <HowItWorks />
       <Footer />
